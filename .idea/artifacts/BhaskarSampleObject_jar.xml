@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="BhaskarSampleObject:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BhaskarSampleObject_jar</output-path>
+    <root id="archive" name="BhaskarSampleObject.jar">
+      <element id="module-output" name="BhaskarSampleObject" />
+    </root>
+  </artifact>
+</component>
